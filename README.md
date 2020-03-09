@@ -1,4 +1,4 @@
-# boh-ma-che-cazzo-ne-so
+# Real To Virtual
 This repo contains all the project and info for the thesis degree
 
 Giulio Zanchetta VR413626
