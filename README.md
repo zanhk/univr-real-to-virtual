@@ -1,5 +1,5 @@
 # Real To Virtual
-This repo contains all the project and info for the thesis degree
+This repo contains all the sources and infos for the thesis degree
 
 Giulio Zanchetta VR413626
 
