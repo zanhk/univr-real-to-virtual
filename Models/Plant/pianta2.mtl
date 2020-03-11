@@ -1,0 +1,43 @@
+newmtl pianta2_tex0
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+map_Kd pianta2_tex0.png
+
+
+newmtl pianta2_tex1
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+map_Kd pianta2_tex1.png
+
+
+newmtl pianta2_tex2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+map_Kd pianta2_tex2.png
+
+
+newmtl pianta2_tex3
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+map_Kd pianta2_tex3.png
+
+
+
+
+#EOF
